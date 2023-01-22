@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @invest-min
+- 👋 Hi, I’m Seonghun Min (@invest-min)
 - 👀 I’m interested in real estate economics, finance, investment, and development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data science about real estae market
+- 💞️ I’m a professor at the University of Suwon
 - 📫 You can reach me via invest.min@gmail.com
 
 <!---

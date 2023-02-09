@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Seonghun Min (@invest-min)
-- 👀 I’m interested in real estate economics, finance, investment, and development
+- 👋 I’m Seonghun Min (@invest-min)
 - 💞️ I’m a professor at the University of Suwon
+- 👀 I study real estate economics, finance, investment, and development
 - 📫 You can reach me via invest.min@gmail.com
 
 <!---
